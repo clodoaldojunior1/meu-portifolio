@@ -1,3 +1,28 @@
-body{
-    background-color: black;
+.item{
+    background-color: tomato;
+    border-radius: 10px;
+    font-size: 1.5em;
+    margin: 5px;
+    text-align: center;
 }
+.container{
+    max-width: 400px;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+}
+.item2{
+    background-color: tomato;
+    border-radius: 10px;
+    font-size: 1.5em;
+    margin: 5px;
+    text-align: center;
+}
+.container2{
+    max-width: 400px;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+}
+
+
+
+

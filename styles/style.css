@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   overflow: hidden;
+  font-family: "Outfit", sans-serif;
 }
 #navbar-container {
   padding: 1.5rem 2.5rem;
@@ -50,7 +51,7 @@ body {
   background-color: #232323;
   color: #1c453c;
 }
-.title {
+subtitle {
   font-size: 3rem;
   color: beige;
 }
@@ -72,5 +73,8 @@ h2 {
 }
 aside img{
     margin-top: 2rem;
-    width: 600px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 10px solid #333;
 }
